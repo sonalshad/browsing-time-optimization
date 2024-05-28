@@ -12,6 +12,5 @@ When faced with so many viewing options, Netflix users often experience choice-o
 **Preview Type**: The type of preview that autoplays (Teaser/Trailer vs Actual Content)  
 
 ## Experimentation
-We access the response surface simulator on the web. We upload a design matrix (experimental conditions) and collect results. The simulator mimics the random assignment of n=100 users to each condition and returns the response variable, i.e. browsing time. We are limited to a maximum of 40 experiments, which mimics real-life budget and time constraints. 
-
+Access the response surface simulator on the web. Upload a design matrix (experimental conditions) and collect results. The simulator mimics the random assignment of n=100 users to each condition and returns the response variable, i.e. browsing time. Limited to a maximum of 40 experiments, which mimics real-life budget and time constraints. 
 
